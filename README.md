@@ -1,6 +1,8 @@
 # Conway's Game of Life
 
-Python implementation of John Conway's Game of Life.
+WIP Python implementation of John Conway's Game of Life.
+
+The approach will be to try different ways, of implementing it through Python 3. First a rough outline of the logic will be created, and then improvements will be made.
 
 ### Rules:
 
